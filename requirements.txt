@@ -1,0 +1,16 @@
+# PyTorch and Computer Vision
+torch>=2.0.0
+torchvision
+opencv-python
+pillow
+scipy
+numpy
+scikit-image
+tqdm
+lpips
+matplotlib
+
+# Web Demo Backend
+fastapi
+uvicorn
+python-multipart

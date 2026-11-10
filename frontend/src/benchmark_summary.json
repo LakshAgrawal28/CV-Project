@@ -1,0 +1,34 @@
+{
+  "total_samples": 890,
+  "dataset_split": "Full UIEB 890 Images",
+  "proposed_wins": 616,
+  "baseline_exceeded": 274,
+  "win_rate_proposed": 69.2,
+  "baseline_metrics": {
+    "psnr_mean": 20.46,
+    "psnr_std": 1.48,
+    "ssim_mean": 0.893,
+    "ssim_std": 0.026,
+    "lpips_mean": 0.111,
+    "lpips_std": 0.019,
+    "uiqm_mean": 3.68,
+    "uciqe_mean": 0.44
+  },
+  "proposed_metrics": {
+    "psnr_mean": 22.66,
+    "psnr_std": 1.93,
+    "ssim_mean": 0.914,
+    "ssim_std": 0.026,
+    "lpips_mean": 0.097,
+    "lpips_std": 0.016,
+    "uiqm_mean": 3.93,
+    "uciqe_mean": 0.45
+  },
+  "deltas": {
+    "psnr": 2.2,
+    "ssim": 0.021,
+    "lpips": -0.014,
+    "uiqm": 0.25,
+    "uciqe": 0.01
+  }
+}

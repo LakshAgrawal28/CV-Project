@@ -1,0 +1,25 @@
+# Data & Large Files
+data/
+outputs/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# JavaScript dependencies
+node_modules/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
